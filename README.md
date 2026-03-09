@@ -1,3 +1,4 @@
+![CI Pipeline](https://github.com/res200183/github-actions-ci-pipeline-lab/actions/workflows/main.yml/badge.svg)
 GitHub Actions CI Pipeline Lab
 Учебный DevOps-проект, демонстрирующий настройку CI pipeline с использованием GitHub Actions.
 Pipeline triggers
